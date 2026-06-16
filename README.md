@@ -9,3 +9,4 @@ cd "enplacement du repertoire"
 streamlit run projet_final.py
 si cela ne marche pas en general sur windows essayez la commande suivante
 python -m streamlit run projet_final.py
+<img width="1920" height="1080" alt="sunukoopar_admin" src="https://github.com/user-attachments/assets/96eb3f10-853c-4ae8-9b3c-610ee1c7c104" />
